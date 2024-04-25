@@ -11,7 +11,7 @@
     "url": "https://github.com/hiepnk-relipa/test.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "hiepnk:registry": "https://npm.pkg.github.com"
   },
   "author": "hiepnkrelipa@gmail.com",
   "license": "ISC",
