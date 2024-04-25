@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiepnk-relipa/test.git"
+  },
+  "author": "hiepnkrelipa@gmail.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
