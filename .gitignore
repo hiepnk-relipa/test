@@ -1,0 +1,13 @@
+#### for Application
+sequelize/storage/
+
+#### environment
+.env
+node_modules
+
+#### for Mac
+.DS_Store
+
+#### environment to develop
+.vscode/*
+!.vscode/cspell.json
